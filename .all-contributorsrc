@@ -1,0 +1,36 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "NGrech",
+      "name": "Nigel Sjolin Grech",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15012834?v=4",
+      "profile": "https://github.com/NGrech",
+      "contributions": [
+        "maintenance",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "bardram",
+      "name": "Jakob Eyvind Bardram",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1196642?v=4",
+      "profile": "https://github.com/bardram",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "reproducible-project-template",
+  "projectOwner": "dtu-digital-health",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
