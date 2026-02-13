@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the associated medRxiv preprint
+  and (optionally) this software repository.
+type: software
+title: "Wrist accelerometer walking detector (MATLAB)"
+abstract: >-
+  MATLAB implementation of a wrist-accelerometer-based walking bout detector and
+  supporting processing/validation utilities.
+repository-code: "https://github.com/<OWNER>/<REPO>"
+license: "SEE LICENSE.md"
+keywords:
+  - actigraphy
+  - accelerometry
+  - walking
+  - gait
+  - wearable
+  - MATLAB
+  - digital health
+
+authors:
+  - family-names: "Brink-Kjaer"
+    given-names: "Andreas"
+    orcid: "https://orcid.org/0000-0002-2872-0929"
+    affiliation: "Department of Health Technology, Technical University of Denmark"
+    email: "andbri@dtu.dk"
+
+preferred-citation:
+  type: article
+  title: "Detection and Characterization of Walking Bouts Using a Single Wrist-Worn Accelerometer in Free-living Conditions"
+  authors:
+    # Paste the author list from the medRxiv preprint in CFF format.
+  - family-names: "Brink-Kjaer"
+    given-names: "Andreas"
+    orcid: "https://orcid.org/0000-0002-2872-0929"
+    affiliation: "Department of Health Technology, Technical University of Denmark"
+  - family-names: "Wickramaratne"
+    given-names: "Sajila D."
+    affiliation: "Department of Medicine, Icahn School of Medicine at Mount Sinai"
+  - family-names: "Parekh"
+    given-names: "Ankit"
+    affiliation: "Department of Medicine, Icahn School of Medicine at Mount Sinai"
+  - family-names: "During"
+    given-names: "Emmanuel H."
+    affiliation: "Department of Neurology, Icahn School of Medicine at Mount Sinai"
+
+  journal: "medRxiv"
+  year: 2023
+  month: 8
+  doi: "10.1101/2023.08.01.23293509"
+  url: "https://www.medrxiv.org/content/10.1101/2023.08.01.23293509v1"
+
+# Optional but recommended once you make a GitHub Release:
+version: "0.1.0"
+date-released: "2026-02-11"

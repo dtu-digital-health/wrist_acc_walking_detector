@@ -1,1 +1,0 @@
-A default Sphinx project for documentation; see sphinx-doc.org for details
