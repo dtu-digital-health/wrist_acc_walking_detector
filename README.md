@@ -31,8 +31,7 @@ Place your actigraphy files (default: `.cwa`) in a folder on your machine, e.g.:
 
 The demo looks for files using:
 
-```
-matlab
+```matlab
 data_subjects = dir(filepath(path_to_actigraphy, ['*.' extension_actigraphy]));
 ```
 
