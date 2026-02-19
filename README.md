@@ -39,3 +39,12 @@ run(fullfile("src","matlab","demo_run.m"));
 This repository is maintained by Digital Health, DTU to support reproducible research and student projects.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.
+
+## Third-party software
+
+This repository redistributes external tools under their respective licenses:
+
+- `src/matlab/export_fig/` — BSD-style license (Woodford & Altman)
+- `src/matlab/icp/` — BSD-style license (Per Bergström)
+
+See the LICENSE files inside those folders for details.
